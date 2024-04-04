@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Matheus Russo, sou um programador front end em busca do full stack, atualmente estou aprendendo e criando projetos em HTML, css e javascript e atualmente estudando react.
+Eu sou o Matheus Russo, sou um programador front end em busca do full stack, atualmente estou aprendendo e criando projetos em HTML, css e começando a estudar javascript.
 
 
 
